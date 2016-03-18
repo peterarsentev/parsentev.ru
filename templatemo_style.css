@@ -180,7 +180,7 @@ em { color: #5d6d1e; }
 
 #templatemo_right_column {
 	float: right;
-	width: 630px;
+	width: 650px;
 	margin-top: 30px;
 	margin-bottom: 20px;
 }
@@ -520,6 +520,28 @@ post_section {
 
 #templatemo_footer a {
 	color: #FFFFFF;
+}
+
+.base_person {
+	width: 150px;
+	height: 150px;
+	overflow: hidden;
+	background-image: url('images/people-avatars_23-2147501881.jpg');
+	background-repeat: no-repeat;
+	display: inline-block;
+}
+
+.beginer {
+	background-position: -320px -430px;
+}
+.junior {
+	background-position: -480px -30px;
+}
+.middle {
+	background-position: 0px -240px;
+}
+.senior {
+	background-position: -155px -240px;
 }
 
 /* footer wrapper */
